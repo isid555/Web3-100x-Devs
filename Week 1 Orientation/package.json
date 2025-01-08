@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "crypto": "^1.0.1"
-  }
+  },
+  "name": "week-1-orientation",
+  "version": "1.0.0",
+  "description": "![img.png](img.png)",
+  "main": "sha.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
