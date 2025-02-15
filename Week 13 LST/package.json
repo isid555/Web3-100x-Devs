@@ -1,0 +1,26 @@
+{
+  "name": "week-13-lst",
+  "version": "1.0.0",
+  "description": "Staking is a way to participate in the security and operation of a blockchain network while earning rewards. It involves locking up your cryptocurrency in a wallet or staking platform to support the network, validate transactions, and secure the blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.4",
+    "@types/bs58": "^4.0.4",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "ngrok": "^5.0.0-beta.2",
+    "typescript": "^5.6.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
