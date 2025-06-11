@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 14 BonkBot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template/lib/forge-std" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template/lib/forge-std/lib/ds-test" vcs="Git" />
@@ -9,6 +10,12 @@
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template/lib/openzeppelin-contracts/lib/erc4626-tests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template/lib/openzeppelin-contracts/lib/forge-std" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 18 Local Development/hello_template/lib/openzeppelin-contracts/lib/halmos-cheatcodes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 19 Bridges , building and EVM bridge/BridgeContract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 19 Bridges , building and EVM bridge/BridgeContract/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 19 Bridges , building and EVM bridge/BridgeContract/lib/forge-std/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 23 Upgradable Staking Contract/stake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 23 Upgradable Staking Contract/stake/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 23 Upgradable Staking Contract/stake/lib/forge-std/lib/ds-test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 6 Token LaunchPad/week-6-web3-token-launchpad" vcs="Git" />
   </component>
 </project>

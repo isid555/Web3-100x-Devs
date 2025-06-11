@@ -1,0 +1,17 @@
+{
+  "name": "week-21-client-side-eth",
+  "version": "1.0.0",
+  "description": "[**`useReadContract` Hook**](https://wagmi.sh/react/api/hooks/useReadContract) allows you to read data on a smart contract, from a `view` or `pure` (read-only) function. They can only read the state of the contract, and cannot make any changes to it. Since read-only methods do not change the state of the contract, they do not require any gas to be executed, and can be called by any user without the need to pay for gas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "typescript": "^5.7.3"
+  }
+}

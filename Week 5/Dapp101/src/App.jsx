@@ -18,9 +18,9 @@ function App() {
           <WalletDisconnectButton/>
           <div>
             Hi world
-            <RequestAirdrop/>
+            {/*<RequestAirdrop/>*/}
             <ShowSolBalance/>
-            <SignMessage/>
+            {/*<SignMessage/>*/}
             <SendTokens/>
           </div>
         </WalletModalProvider>
